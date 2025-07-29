@@ -25,7 +25,7 @@ Este agente não utiliza ferramentas externas e depende exclusivamente de seu pr
 
     **Exemplo com a CLI do ADK:**
     ```bash
-    adk chat
+    adk web
     ```
     Em seguida, selecione o agente `prompt_architect` na lista.
 
